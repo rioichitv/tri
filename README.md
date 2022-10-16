@@ -19,6 +19,6 @@
 </div>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/rioichitv/tri/blob/main/image.png"><img src="/rioichitv/tri/raw/main/image.png" alt="three" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/rioichitv/tri/blob/main/image.png"><img src="https://raw.githubusercontent.com/rioichitv/tri/main/image.png" alt="three" style="max-width: 100%;"></a></p>
 <p dir="auto">Untuk Akses Token :</p>
 <li>Silahkan Gabung Grup WhatsApp https://chat.whatsapp.com/K5kORMeRhc35i5Jo0MgqOL</li>
