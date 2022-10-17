@@ -8,7 +8,7 @@
 <li>termux-setup-storage</li>
 <li>git clone https://github.com/rioichitv/tri</li>
 <li>cd tri</li>
-<li>cd dor.php</li>
+<li>php dor.php</li>
 </ul>
 </article>
           </div>
