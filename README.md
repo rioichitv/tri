@@ -5,6 +5,8 @@
 <li>pkg install git</li>
 <li>pkg install nodejs</li>
 <li>pkg install nodejs-lts</li>
+<li>pkg install php</Li>
+<li>pkg install php7</Li>
 <li>termux-setup-storage</li>
 <li>git clone https://github.com/rioichitv/tri</li>
 <li>cd tri</li>
